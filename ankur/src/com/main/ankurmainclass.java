@@ -4,7 +4,7 @@ public class ankurmainclass {
 
 	public static void main(String[] args)
 	{
-		int h=19;
+		int h=119;
 		for(int i=1;i<=10;i++)
 		{
 		System.out.println(i+h);
