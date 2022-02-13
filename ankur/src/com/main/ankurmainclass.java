@@ -10,6 +10,18 @@ public class ankurmainclass {
 		System.out.println(i+h);
 		}
 		// TODO Auto-generated method stub
+		for(int i=1;i<=5;i++)
+		{
+			int k=2;
+			for(int j=1;j<5;j++)
+			{
+				
+				System.out.print(j);
+				
+			}
+			System.out.println();
+			
+		}
 
 	}
 
